@@ -17,4 +17,4 @@ https://technote.space/programming/vs-trial-product-solution
 
 ## Screenshot
 ![build](https://raw.githubusercontent.com/technote-space/Trial_Installer_ZIP_example/master/201806191323.png)
-![folder](https://raw.githubusercontent.com/technote-space/Trial_Installer_ZIP_example/master/201806191323.png)
+![folder](https://raw.githubusercontent.com/technote-space/Trial_Installer_ZIP_example/master/201806191327.png)
