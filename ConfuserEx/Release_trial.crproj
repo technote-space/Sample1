@@ -1,0 +1,4 @@
+<project outputDir="D:\workspace\Sample1\Sample1\obj\Release_trial" baseDir="D:\workspace\Sample1\Sample1\obj\Release_trial" xmlns="http://confuser.codeplex.com">
+  <rule pattern="true" preset="normal" inherit="false" />
+  <module path="Sample1.exe" />
+</project>
